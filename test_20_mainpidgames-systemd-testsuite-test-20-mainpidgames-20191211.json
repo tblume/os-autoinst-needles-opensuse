@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 221,
+      "ypos": 495,
+      "type": "match",
+      "xpos": 0,
+      "height": 66
+    },
+    {
+      "ypos": 338,
+      "width": 506,
+      "type": "match",
+      "height": 47,
+      "xpos": 0
+    },
+    {
+      "xpos": 758,
+      "ypos": 461,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-20-mainpidgames"
+  ]
+}

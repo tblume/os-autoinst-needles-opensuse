@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 129,
+      "type": "match",
+      "ypos": 558,
+      "width": 397
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-12-issue-3171"
+  ]
+}

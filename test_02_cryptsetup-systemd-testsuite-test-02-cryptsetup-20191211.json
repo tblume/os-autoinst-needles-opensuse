@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 371,
+      "ypos": 335,
+      "type": "match",
+      "xpos": 0,
+      "height": 127
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-02-cryptsetup"
+  ]
+}

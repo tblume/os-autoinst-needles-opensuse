@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 109,
+      "xpos": 0,
+      "ypos": 579,
+      "width": 178,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-04-journal"
+  ]
+}

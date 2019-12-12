@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 561,
+      "width": 401,
+      "type": "match",
+      "xpos": 0,
+      "height": 126
+    },
+    {
+      "xpos": 531,
+      "ypos": 661,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-03-jobs"
+  ]
+}

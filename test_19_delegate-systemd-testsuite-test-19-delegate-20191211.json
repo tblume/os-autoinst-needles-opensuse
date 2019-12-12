@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 334,
+      "width": 175,
+      "type": "match",
+      "xpos": 0,
+      "height": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-19-delegate"
+  ]
+}

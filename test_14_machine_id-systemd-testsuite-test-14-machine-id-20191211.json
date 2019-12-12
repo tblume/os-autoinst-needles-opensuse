@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 205,
+      "ypos": 335,
+      "height": 110,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-14-machine-id"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 216,
+      "ypos": 616,
+      "type": "match",
+      "xpos": 0,
+      "height": 73
+    },
+    {
+      "xpos": 1,
+      "height": 66,
+      "type": "match",
+      "ypos": 449,
+      "width": 422
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-18-failureaction"
+  ]
+}

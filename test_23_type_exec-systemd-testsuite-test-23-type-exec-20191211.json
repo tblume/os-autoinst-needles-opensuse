@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 186,
+      "ypos": 627,
+      "type": "match",
+      "height": 57,
+      "xpos": 0
+    },
+    {
+      "height": 94,
+      "xpos": 0,
+      "type": "match",
+      "width": 456,
+      "ypos": 418
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-23-type-exec"
+  ]
+}

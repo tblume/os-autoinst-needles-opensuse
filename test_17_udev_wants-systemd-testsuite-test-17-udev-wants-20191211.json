@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 111,
+      "xpos": 0,
+      "width": 197,
+      "ypos": 337,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-17-udev-wants"
+  ]
+}

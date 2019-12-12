@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 399,
+      "ypos": 562,
+      "height": 126,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-15-dropin"
+  ]
+}

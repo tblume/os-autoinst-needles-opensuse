@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 126,
+      "xpos": 0,
+      "type": "match",
+      "width": 395,
+      "ypos": 561
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-16-extend-timeout"
+  ]
+}

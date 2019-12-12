@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 179,
+      "ypos": 335,
+      "type": "match",
+      "xpos": 0,
+      "height": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-05-rlimits"
+  ]
+}

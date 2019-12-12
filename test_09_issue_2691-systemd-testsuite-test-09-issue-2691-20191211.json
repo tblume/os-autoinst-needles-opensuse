@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 543,
+      "width": 300,
+      "type": "match",
+      "height": 80,
+      "xpos": 0
+    },
+    {
+      "ypos": 669,
+      "width": 201,
+      "type": "match",
+      "height": 16,
+      "xpos": 0
+    },
+    {
+      "xpos": 214,
+      "ypos": 625,
+      "width": 566,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-09-issue-2691"
+  ]
+}

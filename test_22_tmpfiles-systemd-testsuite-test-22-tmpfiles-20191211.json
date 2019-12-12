@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 334,
+      "width": 179,
+      "type": "match",
+      "height": 110,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "systemd-testsuite-test-22-tmpfiles"
+  ]
+}
